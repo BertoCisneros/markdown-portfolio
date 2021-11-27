@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+* Are 
+* Bullets 
+  * Better
+
+## OR
+
+1. Is
+2. numbered
+  i. better
+  ii. ?
